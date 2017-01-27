@@ -112,6 +112,26 @@ ul {
 	padding:10%;
 }
 
+/* unvisited link */
+a:link {
+    color:#FFFFFF;
+}
+
+/* visited link */
+a:visited {
+    color:#FFFFFF;
+}
+
+/* mouse over link */
+a:hover {
+    color: #e4e4e4;
+}
+
+/* selected link */
+a:active {
+    color: #000000;
+}
+
 .wrapper {
     align-items:center;
     display:flex;
