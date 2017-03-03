@@ -142,7 +142,7 @@ a:active {
    align-items: center;
    background: #222222;
    background:rgba(0,0,0,0.7);
-   border-radius:0.625em;
+   border-radius:2em;
    color:#FFFFFF;
    display:flex;
    display: -webkit-flex;
@@ -157,6 +157,7 @@ a:active {
    line-height:1.5em;
    padding:1em;
    width:20%; 
+   min-width:200px
 } 
 
 #content p span {
